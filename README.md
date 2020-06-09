@@ -4,4 +4,6 @@ Implementation of the power iteration algorithm. Written in Java.
 
   ![image](https://i.ibb.co/23jVm4s/Untitled.png)  
   
+*This project was created for a 6th semester course.*   
+  
 
